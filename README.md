@@ -11,4 +11,4 @@ This project detects **fake vs real text pairs** using [Electra](https://arxiv.o
 
 ## Run Training
 ```bash
-python train.py
+python main.py
