@@ -1,6 +1,8 @@
 # Fake vs Real Text Classification
 
-This project detects **fake vs real text pairs** using [Electra](https://arxiv.org/abs/2003.10555).
+This project detects **fake vs real text pairs** using Electra.
+Hackathon: [Fake or Real: The Impostor Hunt in Texts](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt/overview)
+Part of the Secure Your AI series of competitions by the European Space Agency
 
 ## Pipeline
 1. **Data Loading** → Read paired text files + labels  
